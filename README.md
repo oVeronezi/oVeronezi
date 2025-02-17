@@ -1,4 +1,4 @@
-# Olá, eu sou Luis Felipe Veronezi Bernardo0 
+# Olá, eu sou Luis Felipe Veronezi Bernardo
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontra meus projetos e contribuições
 
@@ -10,6 +10,8 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontra meus projetos e contribui
 - **Tailwind CSS**
 - **Delphi FMX**
 - **SQL**
+- **Javascript**
+- **PHP**
 
 ## 📫 Como me encontrar:
 
