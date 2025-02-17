@@ -1,16 +1,18 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Luis Felipe Veronezi Bernardo0 
 
-Bem-vindo ao meu perfil no GitHub! Aqui você encontra meus projetos e contribuições. Atualmente, estou trabalhando com as seguintes tecnologias:
+Bem-vindo ao meu perfil no GitHub! Aqui você encontra meus projetos e contribuições
 
-## 🚀 Tecnologias que estou utilizando:
+##  Cursando Desenvolvimento de software multiplataforma na FATEC-jau
 
-- **HTML** & **CSS** para construção de páginas e layouts.
-- **Tailwind CSS** para design responsivo e moderno.
-- **Delphi FMX** para desenvolvimento de aplicações desktop.
-- **SQL** para manipulação e consulta de bancos de dados.
+##  Tecnologias que estou aprendendo:
+
+- **HTML** & **CSS**
+- **Tailwind CSS**
+- **Delphi FMX**
+- **SQL**
 
 ## 📫 Como me encontrar:
 
-- [Seu e-mail ou redes sociais]
+- https://www.linkedin.com/in/luis-felipe-veronezi-57a942304/
 
 Fique à vontade para explorar meus projetos! 🙂
