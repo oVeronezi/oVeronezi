@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontra meus projetos e contribuições
 
-##  Cursando Desenvolvimento de software multiplataforma na FATEC-jau
+##  Cursando Desenvolvimento de software multiplataforma na FATEC-JAU
 
 ##  Tecnologias que estou aprendendo:
 
@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontra meus projetos e contribui
 - **PHP**
 
 ## 📁 Meus Repositórios
-- Projeto interdisciplinar https://github.com/oVeronezi/PI-FATEC
+- Projeto interdisciplinar fatec https://github.com/oVeronezi/PI-FATEC
 
 ## 📫 Como me encontrar:
 
