@@ -13,6 +13,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontra meus projetos e contribui
 - **Javascript**
 - **PHP**
 - **N8N**
+- **Docker**
 
 ## 📁 Meus Repositórios
 - Projeto interdisciplinar fatec https://github.com/oVeronezi/PI-FATEC
